@@ -3,6 +3,7 @@ title: Full-Stack Developer
 company: Citrus7 Digital Agency
 period: Jan 2016 - Mar 2017
 tech: JavaScript, VueJS, Quasar, Less, Sass, jQuery, Angular, Ionic, Firebase, Estimote Beacons
+order: 2
 ---
 
 - Developed the official mobile and web application for Olympics Rio 2016.

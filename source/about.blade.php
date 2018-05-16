@@ -29,14 +29,15 @@
                     I have used Scrum and Kanban methodologies, and currently I am planning for my Bachelor’s Thesis a new Agile methodology targeted to digital agencies.
                 </p>
                 <p class="text-xl leading-normal text-grey-darkest mb-6">
-                    I greatly enjoy new concepts, understanding their use and how it can fit into my development activities. Lately, I have been involved in back-end code, but I can write front-end code. If needed, I can also help with DevOps-wise stuff.
+                    I greatly enjoy new concepts, understanding their use and how it can fit into my development activities. Lately, I have been involved in back-end code, but I can write front-end code. If needed, I can also help with
+                    DevOps-wise stuff.
                 </p>
             </section>
 
             <section class="p-6">
                 <h3 class="text-3xl font-bold text-brand mb-8">Experience</h3>
 
-                @foreach ($jobs->reverse() as $job)
+                @foreach ($jobs->sortByDesc('filename') as $job)
                     <article class="text-base text-grey-darkest mb-8 leading-normal">
                         <h4 class="text-2xl font-normal">{{ $job->company }}</h4>
                         <p class="text-base text-grey-darker">{{ $job->title }}</p>

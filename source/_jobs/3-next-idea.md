@@ -3,6 +3,7 @@ title: Head of Technology
 company: Next Idea
 period: Mar 2017 - Aug 2017
 tech: Laravel, Wordpress, Drupal, JavaScript (ES6), VueJS, Sass, jQuery
+order: 3
 ---
 
 - Hired and led remote freelance developers on several projects.

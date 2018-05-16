@@ -3,6 +3,7 @@ title: Full-Stack Developer
 company: Meu Câmbio
 period: Aug 2017 - current
 tech: Laravel, JavaScript (ES6), VueJS, Sass, AWS, SES, NewRelic, TrackJS, Docker
+order: 4
 ---
 
 - Promoted and implemented a queue system to send emails, considering restrictions of SES, crons for batch mailing and deliverability.
