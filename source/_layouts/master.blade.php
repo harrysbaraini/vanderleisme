@@ -12,9 +12,9 @@
     <meta property="og:type" content="article">
     <meta property="og:locale" content="en_US">
     <meta property="og:title" content="{{ $page->meta_title }}">
-    <meta property="og:image" content="http://vanderleis.me/assets/img/planning.png">
+    <meta property="og:image" content="https://vanderleis.me/assets/img/planning.png">
     <meta property="og:description" content="{{ $page->meta_description }}">
-    <meta property="og:url" content="http://vanderleis.me">
+    <meta property="og:url" content="https://vanderleis.me">
 
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:site" content="@vander_dev">
