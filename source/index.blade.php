@@ -7,9 +7,9 @@
     </section>
 
     <section class="pb-6 pt-6 flex items-center justify-center">
-        <img class="p-6" src="http://via.placeholder.com/200x200" alt="Laravel">
-        <img class="p-6" src="http://via.placeholder.com/200x200" alt="Vue.js">
-        <img class="p-6" src="http://via.placeholder.com/200x200" alt="Sass">
+        <img class="p-6" src="/img/laravel-logo.png" alt="Laravel">
+        <img class="p-6" src="/img/vue-logo.png" alt="Vue.js">
+        <img class="p-6" src="/img/sass-logo.png" alt="Sass">
     </section>
 
     <section class="bg-brand-lightest p-6 mb-6">
@@ -21,43 +21,13 @@
                 </p>
             </div>
             <div class="w-1/2 p-6 text-center">
-                <img class="p-6" src="http://via.placeholder.com/320x320" alt="Duties">
+                <img src="/img/planning.png" alt="Duties">
             </div>
         </div>
         <div class="my-6 flex justify-center">
-            <a href="#" class="bg-brand text-white no-underline p-6 text-2xl rounded-lg shadow hover:shadow-lg hover:bg-brand-dark">
+            <a href="/files/vanderlei-amancio-resume-cover-letter.pdf" target="_blank" class="bg-brand text-white no-underline p-6 text-2xl rounded-lg shadow hover:shadow-lg hover:bg-brand-dark">
                 Download my <strong>Resume</strong>
             </a>
         </div>
     </section>
-
-    <form class="bg-brand p-6 mt-6 mb-6 text-center">
-        <h1 class="text-4xl text-white font-light mt-2">Get in touch!</h1>
-        <div class="mt-6 mb-6 flex">
-            <div class="w-1/2 p-4">
-                <input type="text" required class="no-outline w-full p-4 bg-transparent text-grey-lightest border-b-2 border-white shadow hover:shadow-lg focus:shadow-lg" placeholder="Your name">
-            </div>
-            <div class="w-1/2 p-4">
-                <input type="email" required class="no-outline w-full p-4 bg-transparent text-grey-lightest border-b-2 border-white shadow hover:shadow-lg focus:shadow-lg" placeholder="Your email">
-            </div>
-        </div>
-        <div class="w-full p-4">
-            <textarea name="message" required rows="6" class="no-outline w-full p-4 bg-transparent text-grey-lightest border-b-2 border-white shadow hover:shadow-lg focus:shadow-lg" placeholder="Your message"></textarea>
-        </div>
-        <div class="w-full text-center p-6">
-            <button class="bg-brand border-2 border-white rounded-lg text-white p-4 text-xl shadow hover:shadow-lg hover:bg-brand-lighest">
-                Send message
-            </button>
-        </div>
-    </form>
-
-    <footer class="mt-6 py-6 flex justify-between items-center text-grey-darker">
-        <div class="flex-shrink">
-            Copyright © 2018 Vanderlei Sbaraini Amancio.
-        </div>
-        <div class="flex-shrink text-right leading-normal">
-            <a href="mailto:hello@vanderleis.me" class="text-grey-darker">hello@vanderleis.me</a> <br>
-            <a href="https://api.whatsapp.com/send?phone=5547996911154" class="text-grey-darker">+55 47 99691-1154</a>
-        </div>
-    </footer>
 @endsection

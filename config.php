@@ -1,7 +1,9 @@
 <?php
 
 return [
-    'baseUrl' => '',
-    'production' => false,
-    'collections' => [],
+    'baseUrl'     => '',
+    'production'  => false,
+    'collections' => [
+        'jobs',
+    ],
 ];
