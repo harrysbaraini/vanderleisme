@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,400,600|Tajawal:300,400,700');
+
+@tailwind preflight;
+@tailwind components;
+
+// Components classes here ...
+
+@tailwind utilities;
+
+// Custom utilities ...
+
+.no-outline {
+  outline: none;
+}
