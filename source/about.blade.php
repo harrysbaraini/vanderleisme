@@ -67,7 +67,7 @@
     </main>
 
     <div class="mb-6 pb-6 flex justify-center">
-        <a href="/files/vanderlei-amancio-resume-cover-letter.pdf" target="_blank" class="bg-brand text-white no-underline p-6 text-2xl rounded-lg shadow hover:shadow-lg hover:bg-brand-dark">
+        <a href="/assets/files/vanderlei-amancio-resume-cover-letter.pdf" target="_blank" class="bg-brand text-white no-underline p-6 text-2xl rounded-lg shadow hover:shadow-lg hover:bg-brand-dark">
             Download my <strong>Resume</strong>
         </a>
     </div>

@@ -14,10 +14,10 @@
             </a>
         </div>
         <div class="text-sm flex-shrink ml-6">
-            <a href="https://www.twitter.com/vander_dev" target="_blank"><img src="/img/twitter.png" alt="Twitter"></a>
-            <a href="https://www.linkedin.com/in/vanderleiamancio/" target="_blank"><img src="/img/linkedin.png" alt="LinkedIn"></a>
-            <a href="https://github.com/harrysbaraini" target="_blank"><img src="/img/github.png" alt="Github"></a>
-            <a href="https://api.whatsapp.com/send?phone=5547996911154" target="_blank"><img src="/img/whatsapp.png" alt="Whatsapp"></a>
+            <a href="https://www.twitter.com/vander_dev" target="_blank"><img src="/assets/img/twitter.png" alt="Twitter"></a>
+            <a href="https://www.linkedin.com/in/vanderleiamancio/" target="_blank"><img src="/assets/img/linkedin.png" alt="LinkedIn"></a>
+            <a href="https://github.com/harrysbaraini" target="_blank"><img src="/assets/img/github.png" alt="Github"></a>
+            <a href="https://api.whatsapp.com/send?phone=5547996911154" target="_blank"><img src="/assets/img/whatsapp.png" alt="Whatsapp"></a>
         </div>
     </div>
 </nav>

@@ -2,20 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="196e25d1-981a-4f8f-8625-21d898bd0a02" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_jobs/01.bom-jesus.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_jobs/02.citrus7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_jobs/03.next-idea.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_jobs/04.meu-cambio.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_layouts/partials/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_layouts/partials/form.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/about.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/_assets/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_local/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build_local/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_local/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build_local/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_layouts/partials/nav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/partials/nav.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/about.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/assets/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/files/vanderlei-amancio-resume-cover-letter.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/files/vanderlei-amancio-resume-cover-letter.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/github.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/github.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/laravel-logo.gvdesign" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/laravel-logo.gvdesign" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/laravel-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/laravel-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/linkedin.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/linkedin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/planning.gvdesign" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/planning.gvdesign" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/planning.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/planning.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/sass-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/sass-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/sass.gvdesign" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/sass.gvdesign" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/social-medias.gvdesign" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/social-medias.gvdesign" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/vanderleis-logo.gvdesign" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/vanderleis-logo.gvdesign" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/vanderleis-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/vanderleis-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/vue-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/vue-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/vuejs.gvdesign" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/vuejs.gvdesign" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img/whatsapp.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/whatsapp.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,11 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/about.blade.php">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+            <state relative-caret-position="26">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -60,7 +70,13 @@
       <find>sans</find>
       <find>Meu C</find>
       <find>assets/</find>
+      <find>/img/</find>
+      <find>/files/</find>
     </findStrings>
+    <replaceStrings>
+      <replace>/assets/img/</replace>
+      <replace>/assets/files/</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,6 +99,7 @@
         <option value="$PROJECT_DIR$/source/_jobs/02.citrus7.md" />
         <option value="$PROJECT_DIR$/source/index.blade.php" />
         <option value="$PROJECT_DIR$/source/about.blade.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -152,23 +169,6 @@
               <item name="vanderleis" type="b2602c69:ProjectViewProjectNode" />
               <item name="vanderleis" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="vanderleis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanderleis" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vanderleis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanderleis" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vanderleis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanderleis" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_jobs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -186,6 +186,7 @@
       <recent name="$PROJECT_DIR$/source" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/assets" />
       <recent name="$PROJECT_DIR$/source" />
     </key>
   </component>
@@ -211,12 +212,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526440999366</updated>
-      <workItem from="1526441000891" duration="17675000" />
+      <workItem from="1526441000891" duration="17972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17675000" />
+    <option name="totallyTimeSpent" value="17972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="6" width="1366" height="762" extended-state="6" />
@@ -228,7 +229,7 @@
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32863188" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -251,13 +252,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/postcss.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -386,8 +380,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/about.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+        <state relative-caret-position="305">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>

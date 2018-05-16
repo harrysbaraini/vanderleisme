@@ -7,9 +7,9 @@
     </section>
 
     <section class="pb-6 pt-6 flex items-center justify-center">
-        <img class="p-6" src="/img/laravel-logo.png" alt="Laravel">
-        <img class="p-6" src="/img/vue-logo.png" alt="Vue.js">
-        <img class="p-6" src="/img/sass-logo.png" alt="Sass">
+        <img class="p-6" src="/assets/assets/img/laravel-logo.png" alt="Laravel">
+        <img class="p-6" src="/assets/img/vue-logo.png" alt="Vue.js">
+        <img class="p-6" src="/assets/img/sass-logo.png" alt="Sass">
     </section>
 
     <section class="bg-brand-lightest p-6 mb-6">
@@ -21,11 +21,11 @@
                 </p>
             </div>
             <div class="w-1/2 p-6 text-center">
-                <img src="/img/planning.png" alt="Duties">
+                <img src="/assets/img/planning.png" alt="Duties">
             </div>
         </div>
         <div class="my-6 flex justify-center">
-            <a href="/files/vanderlei-amancio-resume-cover-letter.pdf" target="_blank" class="bg-brand text-white no-underline p-6 text-2xl rounded-lg shadow hover:shadow-lg hover:bg-brand-dark">
+            <a href="/assets/assets/files/vanderlei-amancio-resume-cover-letter.pdf" target="_blank" class="bg-brand text-white no-underline p-6 text-2xl rounded-lg shadow hover:shadow-lg hover:bg-brand-dark">
                 Download my <strong>Resume</strong>
             </a>
         </div>
