@@ -29,9 +29,7 @@
                     I have used Scrum and Kanban methodologies, and currently I am planning for my Bachelor’s Thesis a new Agile methodology targeted to digital agencies.
                 </p>
                 <p class="text-xl leading-normal text-grey-darkest mb-6">
-                    I greatly enjoy new concepts, understanding their use and how it can fit into my development activities. Lately, I have been involved in back-end code, but I can write front-end code. If needed, I can also help with
-                    DevOps-wise
-                    stuff.
+                    I greatly enjoy new concepts, understanding their use and how it can fit into my development activities. Lately, I have been involved in back-end code, but I can write front-end code. If needed, I can also help with DevOps-wise stuff.
                 </p>
             </section>
 

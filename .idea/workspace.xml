@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="196e25d1-981a-4f8f-8625-21d898bd0a02" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/config.production.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/master.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/about.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/laravel-logo.gvdesign" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/planning.gvdesign" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/sass.gvdesign" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/social-medias.gvdesign" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/vanderleis-logo.gvdesign" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/vuejs.gvdesign" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/mix-manifest.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,14 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/about.blade.php">
+      <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_layouts/master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="73" selection-start-line="11" selection-start-column="73" selection-end-line="11" selection-end-column="73" />
-              <folding>
-                <element signature="e#467#503#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -55,7 +46,6 @@
       <find>cursive</find>
       <find>font</find>
       <find>modules</find>
-      <find>red</find>
       <find>sans</find>
       <find>Meu C</find>
       <find>assets/</find>
@@ -63,6 +53,7 @@
       <find>/files/</find>
       <find>laravel-logo</find>
       <find>/assets/assets/</find>
+      <find>red</find>
     </findStrings>
     <replaceStrings>
       <replace>/assets/img/</replace>
@@ -86,14 +77,15 @@
         <option value="$PROJECT_DIR$/source/_layouts/partials/footer.blade.php" />
         <option value="$PROJECT_DIR$/source/_assets/_jobs/1.bom-jesus.md" />
         <option value="$PROJECT_DIR$/source/_jobs/01.bom-jesus.md" />
-        <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/source/_jobs/03.next-idea.md" />
         <option value="$PROJECT_DIR$/source/_jobs/02.citrus7.md" />
         <option value="$PROJECT_DIR$/source/index.blade.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/source/_layouts/partials/form.blade.php" />
-        <option value="$PROJECT_DIR$/source/_layouts/master.blade.php" />
         <option value="$PROJECT_DIR$/source/about.blade.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/config.production.php" />
+        <option value="$PROJECT_DIR$/source/_layouts/master.blade.php" />
       </list>
     </option>
   </component>
@@ -176,6 +168,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/source/_jobs" />
       <recent name="$PROJECT_DIR$/source" />
     </key>
@@ -206,19 +199,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526440999366</updated>
-      <workItem from="1526441000891" duration="21103000" />
+      <workItem from="1526441000891" duration="22924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21103000" />
+    <option name="totallyTimeSpent" value="22924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="6" width="1366" height="762" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.24963397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -227,7 +220,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32863188" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32863188" />
       <window_info id="Favorites" sideWeight="0.5021008" side_tool="true" weight="0.24963397" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -273,16 +266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tailwind.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="213" column="12" selection-start-line="213" selection-start-column="8" selection-end-line="213" selection-end-column="12" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_assets/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -321,13 +304,6 @@
             <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -372,20 +348,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_layouts/master.blade.php">
+    <entry file="file://$PROJECT_DIR$/source/about.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        <state relative-caret-position="416">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="254" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/about.blade.php">
+    <entry file="file://$PROJECT_DIR$/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="73" selection-start-line="11" selection-start-column="73" selection-end-line="11" selection-end-column="73" />
+        <state relative-caret-position="130">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.production.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tailwind.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
           <folding>
-            <element signature="e#467#503#0#HTML" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_layouts/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
         </state>
       </provider>
     </entry>
