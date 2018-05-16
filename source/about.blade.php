@@ -8,6 +8,12 @@
                 <h2 class="text-3xl font-bold text-grey">Web Developer</h2>
             </section>
 
+            <section class="flex p-6 justify-center">
+                <figure class="rounded-full overflow-hidden p-2 shadow-lg" style="width: 314px; height: 314px;">
+                    <img src="/assets/img/profile.jpg" alt="Vanderlei Amancio" class="rounded-full">
+                </figure>
+            </section>
+
             <section class="p-6">
                 <h3 class="text-3xl font-bold text-brand mb-8">Overview</h3>
                 <p class="text-xl leading-normal text-grey-darkest mb-6">
