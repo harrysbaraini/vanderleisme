@@ -1,10 +1,10 @@
-<form class="bg-brand p-6 mt-6 mb-6 text-center" name="contact" netlify>
+<form class="bg-brand p-2 mt-6 mb-6 text-center md:p-6" name="contact" netlify>
     <h1 class="text-4xl text-white font-light mt-2">Get in touch!</h1>
-    <div class="mt-6 mb-6 flex">
-        <div class="w-1/2 p-4">
+    <div class="mt-6 mb-6 md:flex">
+        <div class="p-4 w-full md:w-1/2">
             <input type="text" name="name" required class="no-outline w-full p-4 bg-transparent text-grey-lightest border-b-2 border-white shadow hover:shadow-lg focus:shadow-lg" placeholder="Your name">
         </div>
-        <div class="w-1/2 p-4">
+        <div class="p-4 w-full md:w-1/2">
             <input type="email" name="email" required class="no-outline w-full p-4 bg-transparent text-grey-lightest border-b-2 border-white shadow hover:shadow-lg focus:shadow-lg" placeholder="Your email">
         </div>
     </div>

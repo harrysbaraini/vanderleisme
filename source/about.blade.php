@@ -2,14 +2,14 @@
 
 @section('body')
     <main class="flex justify-center">
-        <div class="w-2/3">
-            <section class="p-6">
+        <div class="w-full md:w-3/4 lg:w-2/3">
+            <section class="p-6 text-center">
                 <h1 class="mt-6 text-5xl font-bold leading-normal">Vanderlei Sbaraini Amancio</h1>
                 <h2 class="text-3xl font-bold text-grey">Web Developer</h2>
             </section>
 
             <section class="flex p-6 justify-center">
-                <figure class="rounded-full overflow-hidden p-2 shadow-lg" style="width: 314px; height: 314px;">
+                <figure class="rounded-full overflow-hidden p-2 shadow-lg">
                     <img src="/assets/img/profile.jpg" alt="Vanderlei Amancio" class="rounded-full">
                 </figure>
             </section>
@@ -72,8 +72,6 @@
     </main>
 
     <div class="mb-6 pb-6 flex justify-center">
-        <a href="/assets/files/vanderlei-amancio-resume-cover-letter.pdf" target="_blank" class="bg-brand text-white no-underline p-6 text-2xl rounded-lg shadow hover:shadow-lg hover:bg-brand-dark">
-            Download my <strong>Resume</strong>
-        </a>
+        @component('_components.resume-download-button') @endcomponent
     </div>
 @endsection

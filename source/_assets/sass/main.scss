@@ -10,6 +10,10 @@
 
 // Custom utilities ...
 
+html, body {
+  @apply .w-full;
+}
+
 .no-outline {
   outline: none;
 }
